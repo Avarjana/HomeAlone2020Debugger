@@ -17,7 +17,7 @@ Tip from the creator: Use Postman.
 
 Make sure to pull if there are new changes. That might save you from trouble.
 
-Good Luck 😁
+Good Luck! 😁
 
 One more thing. You either get 100 marks or 0 marks for this task. You can't just "debug partially" and be happy right? 😅
 
